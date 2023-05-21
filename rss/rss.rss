@@ -2,18 +2,18 @@
 <rss version="2.0">
 
 <channel>
-  <title>w3ii Home Page</title>
-  <link>http://www.w3ii.com</link>
-  <description>Free web building tutorials</description>
+  <title>Noticia super chula de Java en Francia</title>
+  <link>http://www.google.es/search?q=Noticia+super+chula+de+Java+en+Francia</link>
+  <description>Noticia super chula en Francia</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>http://www.w3ii.com/xml/xml_rss.html</link>
-    <description>New RSS tutorial on w3ii</description>
+    <title>Noticia super chula de SQL en Alemania</title>
+    <link>http://www.google.es/search?q=Noticia+super+chula+de+SQL+en+Francia</link>
+    <description>Noticia super chula de SQL en Alemania</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>http://www.w3ii.com/xml</link>
-    <description>New XML tutorial on w3ii</description>
+    <title>Noticia super chula de CSS en Andalucia</title>
+    <link>http://www.google.es/search?q=Noticia+super+chula+de+CSS+en+Andalucia</link>
+    <description>Noticia super chula de CSS en Andalucia</description>
   </item>
 </channel>
 
